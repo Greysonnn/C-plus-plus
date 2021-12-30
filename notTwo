@@ -1,0 +1,17 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+   int userNum;
+
+   cin >> userNum;    
+
+   if (userNum != 2) {
+      cout << "Num is not two" << endl;
+   }
+   else {
+      cout << "Num is equal to two" << endl;
+   }
+
+   return 0;
+}
