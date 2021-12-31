@@ -1,8 +1,9 @@
 #include <iostream>
 using namespace std;
 
-/* Estimates dog's age in equivalent human years.
-   Source: www.dogyears.com
+/* 
+Estimates dog's age in equivalent human years.
+Source: www.dogyears.com
 */
 
 int main() {
