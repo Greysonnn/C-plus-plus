@@ -6,7 +6,6 @@ int main() {
 
    cin >> nextChoice;
 
-   /* Your solution goes here  */
    switch (nextChoice) {
       
       case 0:
