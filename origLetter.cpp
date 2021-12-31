@@ -6,7 +6,6 @@ int main() {
 
    cin >> origLetter;
 
-   /* Your solution goes here  */
    switch(origLetter){
       
       case 'a':
