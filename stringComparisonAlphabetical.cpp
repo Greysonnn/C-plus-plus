@@ -9,7 +9,6 @@ int main() {
    cin >> firstString;
    cin >> secondString;
 
-   /* Your solution goes here  */
    if(firstString < secondString){
       cout << firstString << " " << secondString << endl;
    }else{
