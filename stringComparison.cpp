@@ -7,7 +7,6 @@ int main() {
 
    cin >> userString;
 
-   /* Your solution goes here  */
    if (userString == "Quit"){
       cout << "Goodbye" << endl;
    }else{
